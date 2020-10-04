@@ -12,6 +12,9 @@ such quadruple where all four positions are occupied by red pieces. Similarly, t
 each such quadruple where all four positions are occupied by green pieces. The player with the most points wins
 the game.
 
-**How to run the program**
+![connect4](https://user-images.githubusercontent.com/22757695/95021233-5c822b00-0635-11eb-8313-951a9bae4131.gif)
+
+
+## How to run the program
 python maxconnect4 interactive [input_file] [computer-next/human-next] [depth]
 
